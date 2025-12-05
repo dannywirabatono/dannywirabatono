@@ -70,6 +70,66 @@ Networking: DNS, iptables, VPN/tunneling, proxy filtering
 Scripting: Bash, Python, PHP, C/C++, Shell scripting
 Tools: Git, GitLab, Gitea, Jira, Jenkins, Prometheus, Rancher, Postman
 
+# 🎓 Education
+Institut Teknologi Telkom
+
+Bachelor's Degree – Computer Engineering
+2011 – 2017
+
+# 🏅 Licenses & Certifications
+AWS Cloud Foundations – Digital Talent Scholarship 2023
+Issuer: Digitalent Scholarship
+Issued: May 2023
+Credential ID: 1985596840-826/PROA/BLSDM KOMINFO/2023
+
+AWS Academy Graduate – AWS Academy Cloud Foundations
+Issuer: Amazon Web Services (AWS)
+Issued: Mar 2023
+
+Infrastructure and Application Modernization with Google Cloud
+Issuer: Google Cloud Skills Boost
+Issued: Mar 2022
+Credential ID: 1764606
+
+Innovating with Data and Google Cloud
+Issuer: Google Cloud Skills Boost
+Issued: Mar 2022
+Credential ID: 1764516
+
+Introduction to Digital Transformation with Google Cloud
+Issuer: Google Cloud Skills Boost
+Issued: Mar 2022
+Credential ID: 1762082
+
+Understanding Google Cloud Security and Operations
+Issuer: Google Cloud Skills Boost
+Issued: Mar 2022
+Credential ID: 1764681
+
+Cisco Certified Network Associate (Training)
+Issuer: Nixtrain
+Issued: Aug 2017
+
+# 📚 Projects
+Design and Implementation of ISPU Calculation to Identify Air Quality and Its Impacts Based on IoT
+
+Duration: Nov 2016 – May 2017
+Institution: Institut Teknologi Telkom
+This project developed a real‐time IoT-based air quality monitoring system designed to detect, calculate, and analyze pollution levels and their environmental impacts.
+The system used gas sensors, a microcontroller, and an ESP8266 Wi-Fi module to transmit data to the ThingSpeak IoT platform. Data was processed and visualized using a custom Android application built with Java and Eclipse (JDT). The app supported manual and automated data retrieval and was validated across Android versions 4.4–6.0.1.
+Software testing covered black-box, white-box, and basis path testing to ensure accurate ISPU (Air Pollution Standard Index) calculations and application reliability.
+Key Technologies: Java, Android SDK, ThingSpeak IoT Platform, ESP8266, Microcontrollers, Eclipse JDT, Wireless Communication, Real-time Data Processing, Black-box & White-box Testing
+
+# 📝 Test Scores
+EPRT (English Proficiency Test)
+Score: 517 / 677
+Issued: Mar 2017
+Institution: Institut Teknologi Telkom
+Certificate Validity: 2 years
+
+# 🌐 Languages
+English: Full professional proficiency
+Indonesian: Native or bilingual proficiency
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danny-rahmat-wirabatono-750571147) 
